@@ -1,4 +1,4 @@
-# 🤖 Facebook to Discord Webhook Scraper (2026)
+# 🤖 Facebook to Discord Webhook
 
 A high-performance automation tool built with **Python** and **Playwright**. This bot monitors a curated list of Facebook Pages and automatically broadcasts new posts—including text and images—to your **Discord Server** in real-time via Webhooks.
 
